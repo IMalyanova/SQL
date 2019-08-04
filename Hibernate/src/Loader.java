@@ -65,6 +65,7 @@ public class Loader {
 
             }else if (parentId == previous){
                 System.out.println(gap + name);
+                
             }else {
                 gap = gap.substring(0, gap.length() - 5); //("     ","");
                 System.out.println(gap + name);
