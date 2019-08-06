@@ -1,8 +1,5 @@
 package entities;
 
-/**
- * Created by Danya on 26.10.2015.
- */
 public class HierarchicalTable {
     private Integer id;
     private Integer parentId;
